@@ -7,4 +7,6 @@ Converte caracteres de tabulação em espaços e remove repetidos;
 
 Exibe número de caracteres lidos e removidos;
 
-Encerramento ocorre ao pressionar enter sem inserir nome do arquivo a ser lido. Parte da descrição respeitosamente roubada de @birromer.
+Encerramento ocorre ao pressionar enter sem inserir nome do arquivo a ser lido.
+
+Parte do README.md respeitosamente roubado de @birromer.
